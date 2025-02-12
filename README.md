@@ -2,7 +2,7 @@
 
 A simple **Brick Breaker** game built using Java and Swing! Control the paddle, break the bricks, and score points! 🧱✨
 
-                                               ![Gameplay GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N0eTdleXIxbmh1eHN2aWpjN2hrOHBmbGg4b3E4MHAzbjNvajh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNW27pn33u8rtuw/giphy.gif)  
+[Gameplay GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N0eTdleXIxbmh1eHN2aWpjN2hrOHBmbGg4b3E4MHAzbjNvajh0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNW27pn33u8rtuw/giphy.gif)  
 
 ---
 
