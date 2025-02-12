@@ -25,7 +25,7 @@ A simple **Brick Breaker** game built using Java and Swing! Control the paddle, 
 ## 🛠 How to Run
 1. Clone the repository:
    ```sh
-   [git clone https://github.com/yourusername/brick-bracker.git](https://github.com/SPIN0ZAi/Brick_Breaker_Game_in_Java.git)
+   https://github.com/SPIN0ZAi/Brick_Breaker_Game_in_Java.git
    ```
 2. Open the project in your favorite Java IDE (e.g., **IntelliJ, Eclipse, VS Code**).
 3. Compile and run the `Main.java` file.
